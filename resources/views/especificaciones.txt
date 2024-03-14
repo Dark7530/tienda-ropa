@@ -1,0 +1,17 @@
+Proyecto tienda de ropa
+Vista general de los productos (ropa)
+Buscador
+Ordenar por precio
+Mostrar por marca del producto 
+ver categoría de ropa, ropa de hombre o mujer
+Especificaciones del producto (ropa)
+Inicio de sesión/registro de usuario
+Tipos de usuario: admin / cliente
+1. admin:
+Agregar productos (crud)
+Confirmación de venta –opcional
+2. cliente:
+Historial de compra
+Dirección de envió 
+Opción de pago
+Confirmar compra
